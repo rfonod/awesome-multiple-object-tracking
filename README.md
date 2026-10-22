@@ -408,6 +408,10 @@ SoccerNet Tracking [[url]](https://github.com/SoccerNet/sn-tracking)<br>
 
 [Github](https://github.com/roboflow/trackers)  [DOC](https://trackers.roboflow.com/latest/)
 
+**geo-trax**: A framework for multi-object vehicle tracking in high-altitude bird's-eye-view drone video, pairing YOLOv8 detection with six selectable trackers (BoT-SORT, ByteTrack, OC-SORT, Deep OC-SORT, FastTracker, TrackTrack) and full-frame stabilization for camera-motion compensation. Tracks are georeferenced, so the output is metric trajectories with speed, acceleration and heading rather than pixel tracks.
+
+[Github](https://github.com/rfonod/geo-trax)  [Paper](https://doi.org/10.1016/j.trc.2025.105205)
+
 <a id="markdown-course" name="course"></a>
 ## Course
 
